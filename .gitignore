@@ -5,3 +5,5 @@
 /.vs/Nowcoder/v16/.suo
 /.vs/ProjectSettings.json
 /.vs
+*.exe
+*.obj
