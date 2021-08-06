@@ -1,11 +1,10 @@
 // Problem :    https://www.nowcoder.com/ta/coding-interviews
 // Solution:    https://github.com/tjzhym/Nowcoder
 // Author :     zhym (tjzhym)
-// Date   :     2021-8-4
+// Date   :     2021-8-6
 
 
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
